@@ -7,7 +7,7 @@ import(
 	"net/http"
 	"strconv"
 	"github.com/zhakhangers/go-bookstore/pkg/utils"
-	"github.com/zhakhangers/go-bookstore/plg/models"
+	"github.com/zhakhangers/go-bookstore/pkg/models"
 )
 
 var NewBook models.Book
